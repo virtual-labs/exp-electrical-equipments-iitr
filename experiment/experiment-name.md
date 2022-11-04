@@ -1,1 +1,1 @@
-## Experiment name
+## Familiarization with the Electrical Equipments.
