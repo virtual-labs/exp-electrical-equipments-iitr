@@ -1,1 +1,1 @@
-## Familiarization with the Electrical Equipments.
+## Familiarization with the Electrical Equipments

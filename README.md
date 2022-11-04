@@ -4,7 +4,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Basic Electrical Science
-<b> Experiment|     <b> Familiarization with the Electrical Equipments
+<b> Experiment|     <b> To study and verify the Kirchhoff's voltage law.
 
 ### About the Experiment 
 
