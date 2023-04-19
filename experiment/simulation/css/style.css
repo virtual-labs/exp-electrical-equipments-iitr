@@ -27,6 +27,8 @@ body {
 }
 
 .heading p {
+    /* position: absolute; */
+    /* margin-top: 10px ; */
     text-align: center;
     font-family: 'Zacbel X', sans-serif;
     font-size: 30px;
