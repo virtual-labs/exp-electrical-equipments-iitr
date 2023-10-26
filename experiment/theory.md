@@ -1,4 +1,5 @@
 ### Introduction:
+
 An instrument is a device in which we can determine the magnitude or value of the quantity to be measured under observation. The measuring quantity can be voltage, current, power and energy etc. <br>
 
 Electrical systems must be tested for proper operation when they are installed and also periodically for maintenance purposes. The use of electronic test equipment test instruments and meters generally involves. <br>
@@ -7,7 +8,7 @@ Electrical systems must be tested for proper operation when they are installed a
 
 2. Verifying proper operation of instruments and associated equipment. <br>
 
-Now a days, there are two types of instruments available  <br>
+Now a days, there are two types of instruments available <br>
 
 1. Analog instruments <br>
 
