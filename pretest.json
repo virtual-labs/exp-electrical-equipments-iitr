@@ -1,0 +1,10 @@
+[{"question":"A voltmeter must have very high internal resistance so that -","answers":{"a":" Accuracy is high","b":"Resolution is high","c":"Draw a small amount of current","d":"Creates high loading effect of the current"},"correctAnswer":"c"},
+{"question":"Sensitive low voltage electronic components are protected from -","answers":{"a":"Static charge","b":"Induction circuit","c":"Lightening","d":"All of these"},"correctAnswer":"d"},
+{"question":"An ammeter is connected in _________with the circuit -","answers":{"a":"Parallel","b":"Series","c":"Parallel and series","d":"None of above"},"correctAnswer":"b"},
+{"question":"A voltmeter is connected in ______with the circuit -","answers":{"a":"Parallel","b":"Series","c":"Parallel and series","d":"None of above"},"correctAnswer":"a"},
+{"question":"Internal resistance of a voltmeter -","answers":{"a":"High","b":"Medium","c":"Low","d":"Infinity"},"correctAnswer":"a"},
+{"question":"The instrument _____ is used for detecting electric current -","answers":{"a":"Galvanometer","b":"Tube tester","c":"Altimeter","d":"Fathometer"},"correctAnswer":"a"},
+{"question":"In a low power factor wattmeter compensating coil is connected -","answers":{"a":"In series with current coil","b":"In parallel with current coil","c":"In series with pressure coil","d":"In parallel with pressure coil  "},"correctAnswer":"c"},
+{"question":"Identify the instrument that is used to measure the iron losses in a single phase transformer -","answers":{"a":"Low power factor wattmeter","b":"High power factor wattmeter","c":"Low resistance ammeter","d":"Dynamometer type wattmeter"},"correctAnswer":"d"},
+{"question":"How many coil are there in wattmeter -","answers":{"a":"2","b":"3","c":"4","d":"1"},"correctAnswer":"a"},
+{"question":"Wattmeter is measure of -","answers":{"a":"Active power","b":"Reactive power","c":"Apparent power","d":"All of above"},"correctAnswer":"a"}]
