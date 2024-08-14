@@ -5,7 +5,7 @@
 <b>Discipline | <b> Electrical Engineering
 :--|:--|
 <b> Lab | <b> Basic Electrical Science (Simulation)
-<b> Experiment|     <b> 2. Familiarization with the Electrical Equipments.
+<b> Experiment|     <b> 1. Familiarization with the Electrical Equipments.
 <h5> About the Experiment : </h5> <br>
 
 To get familiarized with the electrical devices.

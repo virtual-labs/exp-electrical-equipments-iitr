@@ -2,7 +2,7 @@
 
 An instrument is a device in which we can determine the magnitude or value of the quantity to be measured under observation. The measuring quantity can be voltage, current, power and energy etc. <br>
 
-Electrical systems must be tested for proper operation when they are installed and also periodically for maintenance purposes. The use of electronic test equipment test instruments and meters generally involves. <br>
+Electrical systems must be tested for proper operation when they are installed and also periodically for maintenance purposes. The use of electronic test equipment, instruments, and meters generally involves: <br>
 
 1. Troubleshooting electrical/electronic circuits and equipment. <br>
 
