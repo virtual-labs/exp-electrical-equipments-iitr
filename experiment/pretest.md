@@ -1,6 +1,8 @@
 ## Pre test
 #### Please attempt the following questions
 
+### Note- Reference books are available in the reference section.
+
 <b>Q1. A voltmeter must have very high internal resistance so that-</b><br>
 
 A   Accuracy is high<br>

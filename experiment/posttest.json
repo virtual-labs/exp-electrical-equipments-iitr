@@ -5,6 +5,6 @@
 {"question":"The ration error in current transformer is attributed to: -","answers":{"a":"Leakage flux","b":"Magnetizing component of no load current","c":"Power factor of primary","d":"Energy component of excitation current"},"correctAnswer":"b"},
 {"question":"An industrial analyser is NOT suitable for measuring which of the following -","answers":{"a":"Power","b":"Current","c":"Resistance","d":"Power factor"},"correctAnswer":"c"},
 {"question":"Electric motor is the device which converts electrical energy into ________energy. -","answers":{"a":"Light","b":"Heat","c":"Chemical","d":"Mechanical"},"correctAnswer":"d"},
-{"question":"An electric motor uses the phenomena of -","answers":{"a":"Electromagnetic induction","b":"Heating effect","c":"Magnetic effect of current","d":"None of the above"},"correctAnswer":"c"},
-{"question":"In electric motor, force acts on only those arms whose length is _____ to magnetic field of magnet -","answers":{"a":"Perpendicular","b":"Parallel","c":"Inclined on 45°","d":"All of the above"},"correctAnswer":"c"},
-{"question":"Electric motor used in -","answers":{"a":"Fans","b":"Mixer and juice","c":"Washing machine","d":"All of the above"},"correctAnswer":"d"}]
+{"question":"An electric motor uses the phenomena of -","answers":{"a":"Electromagnetic induction","b":"Heating effect","c":"Magnetic effect of current","d":"None of above"},"correctAnswer":"c"},
+{"question":"In electric motor, force acts on only those arms whose length is _____ to magnetic field of magnet -","answers":{"a":"Perpendicular","b":"Parallel","c":"Inclined on 45°","d":"All of above"},"correctAnswer":"c"},
+{"question":"Electric motor used in -","answers":{"a":"Fans","b":"Mixer and juice","c":"Washing machine","d":"All of above"},"correctAnswer":"d"}]

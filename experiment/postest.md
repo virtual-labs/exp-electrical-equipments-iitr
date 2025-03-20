@@ -1,6 +1,8 @@
 ## Post test
 #### Please attempt the following questions
 
+### Note- Reference books are available in the reference section.
+
 <b> Q1. Laboratory wattmeter are- </b> <br>
 <br>
 A   Induction type<br>
@@ -13,7 +15,7 @@ D   Electro-dynamometer type<br>
 
 A   Current transformer<br>
 B   Potential transformer<br>
-C   Transmission line <br>
+C  Transmission line <br>
 D   A&B <br>
 <br>
 
@@ -22,7 +24,7 @@ D   A&B <br>
 A   Series, ammeter<br>
 B   Parallel , voltmeter<br>
 C   Parallel, ammeter<br>
-D   Series, voltmeter <br><br>
+D  Series, voltmeter <br><br>
 
 
 <b>Q4. In case Potential transformer, if the load on secondary winding increases then-</b><br>
@@ -36,24 +38,24 @@ D   Ratio increases and power factor decreases<br><br>
 <b>Q5. The ratio error in current transformer is attributed to:-</b><br>
 
 A   Leakage flux<br>
-B   Magnetizing component of no load current<br>
+B  Magnetizing component of no load current<br>
 C   Power factor of primary<br>
-D   Energy component of excitation current<br>
+D  Energy component of excitation current<br>
 <br>
 
 <b>Q6. An industrial analyser is NOT suitable for measuring which of the following-</b><br>
 
 A  Power<br>
 B  Current<br>
-C  Resistance<br>
+C   Resistance<br>
 D  Power factor<br>
 <br>
 
 <b>Q7. Electric motor is the device which converts electrical energy into ________energy-</b><br>
 
-A  Light<br>
+A   Light<br>
 B  Heat<br>
-C  Chemical<br>
+C   Chemical<br>
 D  Mechanical<br>
 <br>
 
